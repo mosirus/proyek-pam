@@ -1,0 +1,2 @@
+rootProject.name='SQLiteKotlin'
+include ':app'
